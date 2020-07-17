@@ -133,4 +133,7 @@ body {
   #modalHead {
     display:none;
   }
+   #modalInfo {
+    font-size:1.2rem;
+  }
 }
